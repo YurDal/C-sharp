@@ -1,0 +1,7 @@
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\bin\Debug\Assignmen-1_Yurdaer_Dalkic.exe.config
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\bin\Debug\Assignmen-1_Yurdaer_Dalkic.exe
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\bin\Debug\Assignmen-1_Yurdaer_Dalkic.pdb
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\obj\Debug\Assignmen-1_Yurdaer_Dalkic.csprojResolveAssemblyReference.cache
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\obj\Debug\Assignmen-1_Yurdaer_Dalkic.csproj.CoreCompileInputs.cache
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\obj\Debug\Assignmen-1_Yurdaer_Dalkic.exe
+C:\Users\YURDAER\source\repos\Assignmen-1_Yurdaer_Dalkic\Assignmen-1_Yurdaer_Dalkic\obj\Debug\Assignmen-1_Yurdaer_Dalkic.pdb
